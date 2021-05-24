@@ -24,7 +24,7 @@ body{
     height: 40px;
     text-align: center;
     background-color: rgb(248, 247, 247);
-    padding-top: 6px;
+    padding-top: 50pxpx;
 }
 .compre{
     text-decoration: none;
@@ -81,12 +81,100 @@ h2{
 .b8{
     font-size: 30px; 
 }
-.cores{
-    font-size: 72px;
-    background: -webkit-linear-gradient(bottom right,red, yellow,green,blue,rgb(61, 134, 243));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
 .b9{ 
     display: inline;
+    font-size: 45px;
+}
+.pa{
+    height: 30px;
+}
+.linha9{
+    text-align: center;
+    padding-top: 40px;
+    background-color: rgb(250, 253, 253);
+    margin-top: 7px;
+}
+.linha7{
+    text-align: center;
+    padding-top: 40px;
+    background-color: rgb(250, 253, 253);
+    margin-top: 7px;
+    line-height: 25px;
+}
+.b0{
+    font-size: 60px;
+    text-decoration: none;
+    margin-top: 0;
+    line-height: 65px; 
+}
+.b10{
+    font-size: 20px; 
+    line-height: 15px;
+}
+.linha00{
+    text-align: center;
+    padding-top: 40px;
+    background-image: url(img/6.png);
+    background-size: cover;
+    height: 430px;
+    margin: 0;
+
+}
+.blabla{
+    padding: 0;
+}
+.linha4{
+    text-align: center;
+    background-color: rgb(7, 7, 7);
+    margin-left: 3px;
+    margin-right: 5px;
+}
+.banana2{
+    display: inline;
+    font-size: 5px;
+    margin-bottom: 46px;
+    margin-left: 4px;
+}
+.b11{
+    font-size: 20px; 
+    line-height: 15px;
+    color: white;
+}
+.ip13{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+.rodape1{
+    font-size: 13px;
+    color: rgb(129, 126, 126);
+}
+.rodape{
+    padding-left:100px ;
+    padding-right:100px ;
+}
+.b99{
+    font-size: 30px; 
+    color: white;
+}
+.b98{
+    color: white;
+}
+
+.ip14{
+    text-decoration: none;
+    color: rgb(82, 79, 79);
+    font-size: 12px;
+}
+.ip15{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 12px;
+}
+.listagem{
+    border-top: rgb(168, 167, 167) solid 1px;
+    height: 420px;
+}
+.final{
+    border-left: rgb(168, 167, 167) solid 1px;
 }
